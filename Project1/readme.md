@@ -35,11 +35,8 @@ With the given input:
 | | num of insertions | num of failures | num of occupied |
 | --- | --- | --- | --- |
 | MultiHash | 820 | 180 | 808 |
-
 | CuckooHash | 924 | 76 | 918 |
-
 | D-LeftHash | 884 | 116 | 871 |
-
 | *Cuckoo&D-Left | 999 | 1 | 984 |
 
 *: Combination of Cuckoo and D-Left, which is the best result.
